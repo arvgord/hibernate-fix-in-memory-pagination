@@ -1,0 +1,1 @@
+# hibernate-fix-in-memory-pagination
